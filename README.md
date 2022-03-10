@@ -1,5 +1,5 @@
 # Elena Dermendzhieva
-### My name is Elena Dermendzhieva. I do Front-end and Back-end Development. I enjoy learning programming languages and frameworks.
+### I'm Elena from Bulgaria and I do Front-end and Back-end Development. I enjoy learning programming languages and frameworks.
 ![](https://binaryinformatics.com/wp-content/uploads/2019/01/Front-End-Development-with-React.jpg)
 
 ### Skills:  JS / HTML / CSS/ REACT
