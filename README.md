@@ -1,8 +1,9 @@
-### Hi there 👋,
+# Elena Dermendzhieva
 ### My name is Elena Dermendzhieva. I do Front-end and Back-end Development. I enjoy learning programming languages and frameworks.
 ![](https://binaryinformatics.com/wp-content/uploads/2019/01/Front-End-Development-with-React.jpg)
 
 ### Skills:  JS / HTML / CSS/ REACT
+
 
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: elka.derm@abv.bg 
